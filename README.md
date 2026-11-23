@@ -22,8 +22,8 @@ Os erros de API são **uma** das causas principais, não a única. A seção "Li
 
 ## Painel
 
-![Visão executiva](docs/imagens/visao_executiva.png)
-![Fatores de churn](docs/imagens/fatores_de_churn.png)
+![Visão executiva](imagens/visao_executiva.png)
+![Fatores de churn](imagens/fatores_de_churn.png)
 
 O painel tem cinco abas: Visão executiva (conclusões, importância das variáveis, churn por faixa de erros, previsto contra observado, receita em risco por plano), Fatores de churn, Carteira em risco (lista exportável), Simulador de retenção e Metodologia.
 
