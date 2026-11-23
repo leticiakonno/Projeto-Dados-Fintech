@@ -22,8 +22,6 @@ Os erros de API são **uma** das causas principais, não a única. A seção "Li
 
 ## Painel
 
-Adicione os prints em `docs/imagens/` com os nomes abaixo.
-
 ![Visão executiva](docs/imagens/visao_executiva.png)
 ![Fatores de churn](docs/imagens/fatores_de_churn.png)
 
